@@ -1,0 +1,64 @@
+idleoncompanion:
+----------------
+pabhd3 <pabhd3@gmail.com>
+Alex <alexcamera929@gmail.com>
+Alexander Lichter <manniL@gmx.net>
+Bryan <br.deridder@gmail.com>
+Douglas Lima <doug.llima@hotmail.com>
+Anthony Gaff <anthony.gaff@valid.com>
+
+
+openMW
+------
+elsid <elsid.mail@gmail.com>
+Andrei Kortunov <andrei.kortunov@yandex.ru>
+Chris Robinson <chris.kcat@gmail.com>
+Capostrophic <alexdobrohotov@yandex.ru>
+Diego Crespo <crespodi@bu.edu>
+psi29a <psi29a@gmail.com>
+AnyOldName3 <krizdjali+gitlab@gmail.com>
+Marek Kochanowicz <sirherrbatka@gmail.com>
+Evil Eye <malusluminis@hotmail.com>
+gus <gus_512@hotmail.com>
+Stanislav Bas <stanislav.m.bas@gmail.com>
+Kyle Cooley <kyleacooley@gmail.com>
+Nicolay Korslund <korslund@gmail.com>
+Nelsson Huotari <unelsson@gmail.com>
+Alexander Olofsson <ace@haxalot.com>
+
+Wordpress
+---------
+Ryan Boren <ryan@git.wordpress.org>
+Andrew Nacin <nacin@git.wordpress.org>
+Andrew Ozz <azaozz@git.wordpress.org>
+Sergey Biryukov <sergeybiryukov@git.wordpress.org>
+Drew Jaynes <drewapicture@git.wordpress.org>
+Mark Jaquith <markjaquith@git.wordpress.org>
+Matt Mullenweg <matt@git.wordpress.org>
+Dion Hulse <dd32@git.wordpress.org>
+John Blackbourn <johnbillion@git.wordpress.org>
+Dominik Schilling <ocean90@git.wordpress.org>
+Peter Westwood <westi@git.wordpress.org>
+Lance Willett <lancewillett@git.wordpress.org>
+Boone Gorges <boonebgorges@git.wordpress.org>
+Jonathan Desrosiers <desrosj@git.wordpress.org>
+Weston Ruter <westonruter@git.wordpress.org>
+
+Jenkins
+-------
+Kohsuke Kawaguchi <kk@kohsuke.org>
+Stephen Connolly <stephen.alan.connolly@gmail.com>
+tfennelly <tom.fennelly@gmail.com>
+Tim Jacomb <timjacomb1+github@gmail.com>
+Olivier Lamy <olamy@apache.org>
+Christoph Kutzinski <kutzi@gmx.de>
+Seiji Sogabe <s.sogabe@gmail.com>
+Nicolas De Loof <nicolas.deloof@gmail.com>
+Riliane <alishka21@gmail.com>
+olivier lamy <olamy@apache.org>
+kzantow <kzantow@gmail.com>
+Matt Sicker <boards@gmail.com>
+Andrew Bayer <andrew.bayer@gmail.com>
+Kanstantsin Shautsou <kanstantsin.sha@gmail.com>
+christ66 <schristou88@gmail.com>
+
